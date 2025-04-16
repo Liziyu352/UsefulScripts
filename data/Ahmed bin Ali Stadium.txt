@@ -1,0 +1,14 @@
+USA 43418 1
+Wales 128590 3
+Belgium 134416 2
+Canada 40432 1
+Wales 128590 3
+Iran 40875 1
+Japan 41479 1
+Costa Rica 41479 1
+Wales 128590 3
+England 44297 1
+Croatia 43984 1
+belgium 134416 2
+Argentina 45032 1
+Australia 45032 1

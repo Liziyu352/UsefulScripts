@@ -1,0 +1,14 @@
+Mexico 39369 1
+Poland 83458 2
+Portugal 42662 1
+Ghana 42662 1
+France 42860 1
+Denmark 42860 1
+Brazil 87496 2
+Switzerland 85027 2
+Poland 83458 2
+Argentina 44089 1
+Serbia 41378 1
+Switzerland 85027 2 
+Brazil 87496 2
+South Korea 43847 1

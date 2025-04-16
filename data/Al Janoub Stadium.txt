@@ -1,0 +1,11 @@
+France 40875 1
+Australia 123930 3
+Switzerland 39089 1
+Cameroon 78878 2
+Tunisia 41823 1
+Serbia 39789 1
+Denmark 41232 1
+Ghana 43443 1
+Uruguay 43443 1
+Japan 42523 1
+Croatia 42523 1
