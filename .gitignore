@@ -1,2 +1,6 @@
-./math_game.log
-./temp.txt
+*.log
+
+*.txt
+
+*.spec
+
