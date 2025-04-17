@@ -1,11 +1,3 @@
-# Test me
-```python
-if __name__ == '__main__':
-    print('hello')
-    print(1)
-```
-# this is a test.
-```bash
-echo 'hello'
-echo 1
-```
+# [Liziyu352/UsefulScripts](https://github.com/Liziyu352/UsefulScripts/)
+
+### This repo contains some useful/interesting Python scripts, and I will commit them just for fun. =P
